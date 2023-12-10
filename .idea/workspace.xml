@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5a957b-ce84-49b0-b55c-c7ad8e278fbc" name="Changes" comment="feat: add gitignore">
-      <change afterPath="$PROJECT_DIR$/day7/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/part-1.py" afterDir="false" />
+    <list default="true" id="ee5a957b-ce84-49b0-b55c-c7ad8e278fbc" name="Changes" comment="feat: add day 7 pt 1">
+      <change afterPath="$PROJECT_DIR$/day8/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/part-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/part-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/calnightingale/PycharmProjects/advent-of-code-2023/day7",
+    "last_opened_file_path": "/Users/calnightingale/PycharmProjects/advent-of-code-2023/day8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,11 +54,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day8" />
       <recent name="$PROJECT_DIR$/day7" />
       <recent name="$PROJECT_DIR$/day6" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/day4" />
-      <recent name="$PROJECT_DIR$/day3" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701962330861</updated>
-      <workItem from="1701962332932" duration="20100000" />
+      <workItem from="1701962332932" duration="22575000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add day 4 solutions">
       <option name="closed" value="true" />
@@ -101,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702240103216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add day 7 pt 1">
+      <option name="closed" value="true" />
+      <created>1702247825640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702247825640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,11 +120,12 @@
     <MESSAGE value="feat: add day 4 solutions" />
     <MESSAGE value="feat: add day 6 solutions" />
     <MESSAGE value="feat: add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add gitignore" />
+    <MESSAGE value="feat: add day 7 pt 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add day 7 pt 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_2.coverage" NAME="part-2 Coverage Results" MODIFIED="1702239969309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_2.coverage" NAME="part-2 Coverage Results" MODIFIED="1702250286916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
     <SUITE FILE_PATH="coverage/advent_of_code_2023$test.coverage" NAME="test Coverage Results" MODIFIED="1702203734423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
-    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_1.coverage" NAME="part-1 Coverage Results" MODIFIED="1702246810337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
+    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_1.coverage" NAME="part-1 Coverage Results" MODIFIED="1702248864991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
   </component>
 </project>
