@@ -10,7 +10,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day1/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day1/input.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day1/part-1.py" afterDir="false" />
@@ -23,6 +22,11 @@
       <change afterPath="$PROJECT_DIR$/day3/input.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day3/part-1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day3/part-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/part-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/part-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +59,8 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/calnightingale/PycharmProjects/advent-of-code-2023/day3",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/calnightingale/PycharmProjects/advent-of-code-2023/day4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,8 +71,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day3" />
+      <recent name="$PROJECT_DIR$/day4" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day3" />
       <recent name="$PROJECT_DIR$/day2" />
       <recent name="$PROJECT_DIR$/day1" />
     </key>
@@ -88,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701962330861</updated>
-      <workItem from="1701962332932" duration="10732000" />
+      <workItem from="1701962332932" duration="13228000" />
     </task>
     <servers />
   </component>
@@ -96,8 +101,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_2.coverage" NAME="part-2 Coverage Results" MODIFIED="1702204991392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_2.coverage" NAME="part-2 Coverage Results" MODIFIED="1702207486901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/advent_of_code_2023$test.coverage" NAME="test Coverage Results" MODIFIED="1702203734423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
-    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_1.coverage" NAME="part-1 Coverage Results" MODIFIED="1702203813508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_1.coverage" NAME="part-1 Coverage Results" MODIFIED="1702206033755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
   </component>
 </project>
