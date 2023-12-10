@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5a957b-ce84-49b0-b55c-c7ad8e278fbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/advent-of-code-2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/part-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/part-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/part-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/part-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/part-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/part-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/part-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/part-2.py" afterDir="false" />
+    <list default="true" id="ee5a957b-ce84-49b0-b55c-c7ad8e278fbc" name="Changes" comment="feat: add day 4 solutions">
+      <change afterPath="$PROJECT_DIR$/day6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/part-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/calnightingale/PycharmProjects/advent-of-code-2023/day4",
+    "last_opened_file_path": "/Users/calnightingale/PycharmProjects/advent-of-code-2023",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,8 +53,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day4" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day4" />
       <recent name="$PROJECT_DIR$/day3" />
       <recent name="$PROJECT_DIR$/day2" />
       <recent name="$PROJECT_DIR$/day1" />
@@ -93,16 +75,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701962330861</updated>
-      <workItem from="1701962332932" duration="13228000" />
+      <workItem from="1701962332932" duration="14671000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add day 4 solutions">
+      <option name="closed" value="true" />
+      <created>1702207726079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702207726079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add day 4 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add day 4 solutions" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_2.coverage" NAME="part-2 Coverage Results" MODIFIED="1702207486901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_2.coverage" NAME="part-2 Coverage Results" MODIFIED="1702207639070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/advent_of_code_2023$test.coverage" NAME="test Coverage Results" MODIFIED="1702203734423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
-    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_1.coverage" NAME="part-1 Coverage Results" MODIFIED="1702206033755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/advent_of_code_2023$part_1.coverage" NAME="part-1 Coverage Results" MODIFIED="1702239763275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
   </component>
 </project>
